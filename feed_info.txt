@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang
+Plexus,https://theis-plexus.herokuapp.com,en
